@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Use the stable Rails 8.0 branch for compatibility with Ruby 3.3
-gem "rails", "~> 8.0.0"
+gem "rails", "~> 8.1.3"
 
 # Use postgresql as the database
 gem "pg", "~> 1.1"
